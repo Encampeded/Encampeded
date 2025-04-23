@@ -1,6 +1,9 @@
-## go away 👋
-currently working on nothing
-currently learning nothing
+## Heyo 👋
+I'm an amateur programmer who mainly writes in Python, with a tiny side of C++
+
+I'm currently working on...
+- gda.py, a Python API Wrapper for the Geometry Dash API
+- A currently unnamed (and barely started) lightweight cli music player
 
 <!--
 **Encampeded/Encampeded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
